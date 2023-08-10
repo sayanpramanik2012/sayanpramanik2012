@@ -1,41 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-color: #1E1E1E; /* Dark background color */
-    color: #FFFFFF; /* Light text color */
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #2A2A2A; /* Slightly lighter background color */
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #FF6B6B; /* Eye-catching heading color */
-  }
-  a {
-    color: #66CCFF; /* Links color */
-    text-decoration: none;
-    border-bottom: 1px solid #66CCFF; /* Underline on hover */
-    transition: border-bottom 0.3s ease-in-out;
-  }
-  a:hover {
-    border-bottom: 2px solid #66CCFF; /* Thicker underline on hover */
-  }
-  /* Add your other CSS styles here */
-</style>
-</head>
-<body>
-
-<div class="container">
- 
 # Hey there, I'm Sayan Pramanik! 👋
 
 ## Web Developer | Server and Software Developer
@@ -143,8 +105,3 @@ Passionate about code, servers, and creating digital experiences.
 ---
 
 Feel free to explore my GitHub repositories and let's connect on LinkedIn. Let's create something awesome together! 😄🚀
-
-</div>
-
-</body>
-</html>
