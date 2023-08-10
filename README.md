@@ -35,16 +35,16 @@ Passionate about code, servers, and creating digital experiences.
 
 ---
 
-### Achievements 🏆
+### Achievements and Certificates 🏆📜
 
-**Code Kaze (02/2022 - 03/2022)**  
-🏅 National Rank: 1165th, College Rank: 1st  
-🌐 Graduation Year Rank [All India]: 775th  
-🎓 10th CBSE, Alwin Memorial Public School  
-🏁 Score: 85%
+**Code Kaze (02/2022 - 03/2022)** | **UDEMY KALI LINUX (12/2019 - 08/2020)**
+🏅 National Rank: 1165th, College Rank: 1st | 🔐 Credential ID: UC-0da88183-123e-4545-9daf-6feb3d02817d
+🌐 Graduation Year Rank [All India]: 775th | 💻 Certified Linux User
+🎓 10th CBSE, Alwin Memorial Public School | 
 
-**Google Kickstart (03/2022 - 04/2022)**  
-🏅 Round A Rank: 11942nd, Round B Rank: 5717th
+**Google Kickstart (03/2022 - 04/2022)** | **Cyber Security Works(CSW-CTF) (10/2021 - 12/2021)**
+🏅 Round A Rank: 11942nd, Round B Rank: 5717th | 💡 Worked on C# language, DLC packages, Database Handling.
+ | 🛡️ Course on Cyber Security management, attack prevention, packet capture.
 
 ---
 
@@ -64,21 +64,6 @@ Passionate about code, servers, and creating digital experiences.
 
 ---
 
-### Certificates 📜
-
-**UDEMY KALI LINUX (12/2019 - 08/2020)**  
-🔐 Credential ID: UC-0da88183-123e-4545-9daf-6feb3d02817d  
-💻 Certified Linux User
-
-**Cyber Security Works(CSW-CTF) (10/2021 - 12/2021)**  
-💡 Worked on C# language, DLC packages, Database Handling.  
-🛡️ Course on Cyber Security management, attack prevention, packet capture.
-
-**HCL Internship Project (01/2022 - 05/2022)**  
-🕹️ Web-based Multiplayer Game
-
----
-
 ### Experience 💼
 
 **Front-End Developer (Internship)**  
@@ -95,20 +80,20 @@ Passionate about code, servers, and creating digital experiences.
 
 ### Languages 🌐
 
-🌐 **English:** Full Professional Proficiency  
-🌐 **Assamese:** Elementary Proficiency  
-🌐 **Bengali:** Native or Bilingual Proficiency  
-🌐 **Hindi:** Full Professional Proficiency  
-🌐 **TAMIL:** Limited Working Proficiency
+🌐 | 🌐
+--- | ---
+**English:** Full Professional Proficiency | **Assamese:** Elementary Proficiency  
+**Bengali:** Native or Bilingual Proficiency | **Hindi:** Full Professional Proficiency  
+ | **TAMIL:** Limited Working Proficiency
 
 ---
 
 ### Interests 🌟
 
-👾 Code Debugging  
-🕷️ Web Debugging  
-🖥️ PC Hardware  
-🧪 Software Testing
+🌟 | 🌟
+--- | ---
+👾 Code Debugging | 🕷️ Web Debugging  
+🖥️ PC Hardware | 🧪 Software Testing
 
 ---
 
