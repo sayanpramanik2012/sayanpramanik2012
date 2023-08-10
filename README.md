@@ -4,8 +4,7 @@
 
 Passionate about code, servers, and creating digital experiences.
 
-📧 **Email:** sayanpramanik2012@gmail.com  
-📞 **Phone:** 9940218268  
+📧 **Email:** sayanpramanik2012@gmail.com
 🏠 **Location:** Chennai, India  
 🌐 [Portfolio Website](https://sayanpramanik-resume.web.app/) | [LinkedIn](https://linkedin.com/in/sayan-pramanik-084358178) | [GitHub](https://github.com/sayanpramanik2012)
 
@@ -37,14 +36,22 @@ Passionate about code, servers, and creating digital experiences.
 
 ### Achievements and Certificates 🏆📜
 
-**Code Kaze (02/2022 - 03/2022)** | **UDEMY KALI LINUX (12/2019 - 08/2020)**
-🏅 National Rank: 1165th, College Rank: 1st | 🔐 Credential ID: UC-0da88183-123e-4545-9daf-6feb3d02817d
-🌐 Graduation Year Rank [All India]: 775th | 💻 Certified Linux User
-🎓 10th CBSE, Alwin Memorial Public School | 
+**Code Kaze (02/2022 - 03/2022)**  
+🏅 National Rank: 1165th, College Rank: 1st  
+🌐 Graduation Year Rank [All India]: 775th  
+🎓 10th CBSE, Alwin Memorial Public School  
+🏁 Score: 85%
 
-**Google Kickstart (03/2022 - 04/2022)** | **Cyber Security Works(CSW-CTF) (10/2021 - 12/2021)**
-🏅 Round A Rank: 11942nd, Round B Rank: 5717th | 💡 Worked on C# language, DLC packages, Database Handling.
- | 🛡️ Course on Cyber Security management, attack prevention, packet capture.
+**Google Kickstart (03/2022 - 04/2022)**  
+🏅 Round A Rank: 11942nd, Round B Rank: 5717th
+
+[UDEMY KALI LINUX (12/2019 - 08/2020)](https://www.udemy.com/certificate/UC-0da88183-123e-4545-9daf-6feb3d02817d)  
+🔐 Credential ID: UC-0da88183-123e-4545-9daf-6feb3d02817d  
+💻 Certified Linux User
+
+**Cyber Security Works(CSW-CTF) (10/2021 - 12/2021)**  
+💡 Worked on C# language, DLC packages, Database Handling.  
+🛡️ Course on Cyber Security management, attack prevention, packet capture.
 
 ---
 
@@ -54,10 +61,10 @@ Passionate about code, servers, and creating digital experiences.
 🏆 Team Rank: 1135th (Score: 2389404)
 
 **Turtle-Multiplayer-Game (02/2022 - 02/2022)**  
-🎮 Project available on GitHub, based on Tinker and Python
+🎮 Project available on [GitHub](https://github.com/sayanpramanik2012/Turtle-Multiplayer-Game), based on Tinker and Python
 
 **WEB-based-Multiplayer-snake-game (03/2022 - 04/2022)**  
-🐍 Project available on GitHub, developed during HCL Internship
+🐍 Project available on [GitHub](https://github.com/sayanpramanik2012/WEB-based-Multiplayer-snake-game), developed during HCL Internship
 
 **Grand Theft Auto V(GTA-V) Roleplay Server (11/2021 - 02/2023)**  
 🎮 Worked on Network design, HTML pages, CSS, JavaScript.
