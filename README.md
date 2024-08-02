@@ -26,7 +26,7 @@ Passionate about code, servers, and creating digital experiences.
 
 ### Skills 💡
 
-🚀 **Languages:** Leadership, Python, C++, C, HTML, CSS  
+🚀 **Languages:** Python, C++, C, HTML, CSS  
 🐧 **Operating Systems:** Linux  
 📊 **Project Management:** Teamwork, Project Management  
 🔥 **Tech Stack:** Firebase, Server Establishing, Database Management  
