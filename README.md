@@ -79,7 +79,7 @@ Passionate about code, servers, and creating digital experiences.
 **Associate Software Developer**  
 - Innoart Technology  
 - Duration: 08/2023 - Present  
-- Location: Remote
+- Location: Hybrid
 
 ---
 
