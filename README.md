@@ -38,9 +38,7 @@ Passionate about code, servers, and creating digital experiences.
 
 **Code Kaze (02/2022 - 03/2022)**  
 🏅 National Rank: 1165th, College Rank: 1st  
-🌐 Graduation Year Rank [All India]: 775th  
-🎓 10th CBSE, Alwin Memorial Public School  
-🏁 Score: 85%
+🌐 Graduation Year Rank [All India]: 775th 
 
 **Google Kickstart (03/2022 - 04/2022)**  
 🏅 Round A Rank: 11942nd, Round B Rank: 5717th
