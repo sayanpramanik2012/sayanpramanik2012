@@ -6,7 +6,7 @@ Passionate about code, servers, and creating digital experiences.
 
 📧 **Email:** sayanpramanik2012@gmail.com
 🏠 **Location:** Chennai, India  
-🌐 [Portfolio Website](https://sayanpramanik-resume.web.app/) | [LinkedIn](https://linkedin.com/in/sayan-pramanik-084358178) | [GitHub](https://github.com/sayanpramanik2012)
+🌐 [Portfolio Website](https://sayanpramanik2012.github.io/Portfolio/) | [LinkedIn](https://linkedin.com/in/sayan-pramanik-084358178) | [GitHub](https://github.com/sayanpramanik2012)
 
 ---
 
